@@ -6,10 +6,11 @@ A repository that contains links to talks that will make you a better developer,
 GOTO 2012 • Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield
 https://www.youtube.com/watch?v=2JNXx8VdbAE
 
-- Key takeaways
+Key takeaways:
  - Don't build features, deliver value 
  - Skype users want to place a call, amazon users want to buy something, indentify what you users want and help them to that as effortless as possible 
  - Know the "personas" of your users, find these users and track them
+ - poke yoke
  
 Scalapeño 2016 Closing Keynote: Fake it Until you Make it (Dom Davis) 
  https://www.youtube.com/watch?v=hN2aRey3jLw
