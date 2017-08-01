@@ -11,6 +11,9 @@ Key takeaways:
  - Skype users want to place a call, amazon users want to buy something, indentify what you users want and help them to that as effortless as possible 
  - Know the "personas" of your users, find these users and track them
  - poke yoke
+ - ignore your mother, be fast, dirty and cheap 
+ - make your devs do user testings with actual users, they need to put a face on a user. 
+ 
  
 Scalapeño 2016 Closing Keynote: Fake it Until you Make it (Dom Davis) 
  https://www.youtube.com/watch?v=hN2aRey3jLw
