@@ -29,7 +29,7 @@ Constraints Liberate, Liberties Constrain — Runar Bjarnason
  Heather VanCura: Top Ten Ways to Ally for Women in Tech
 https://www.youtube.com/watch?v=mMzVTcx2WwE
 
-### Data scinece done right 
+### Data science done right 
 
 It hurts when I p
 https://youtu.be/Emm00CYQecs
