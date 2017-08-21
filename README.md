@@ -24,6 +24,12 @@ Scalapeño 2016 Closing Keynote: Fake it Until you Make it (Dom Davis)
 
 Constraints Liberate, Liberties Constrain — Runar Bjarnason
 - https://www.youtube.com/watch?v=GqmsQeSzMdw
+- Category Theory, The essence of interface-based design - Erik Meijer
+https://www.youtube.com/watch?v=JMP6gI5mLHc
+Key takeaways:
+ - Category -> Programming Language 
+ - Object -> Type 
+ Morphism -> Static Method f(a:A):B
  ### Work better as a team
  
  Heather VanCura: Top Ten Ways to Ally for Women in Tech
